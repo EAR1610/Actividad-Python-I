@@ -57,4 +57,4 @@ elif opcion==2:
             print(i)
 #Uso del Else
 else:
-    print("No me has dado un número determinado \n debes elegir 1 o 0")
+    print("No me has dado un número determinado \n debes elegir 1 o 2")
